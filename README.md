@@ -9,7 +9,7 @@ their [official documentation](https://github.com/CycloneDX/cyclonedx-property-t
 
 | Namespace | Description |
 | --- | --- |
-| `codenotary:trust_status` | Namespace for properties specific to trust level. | 
+| `codenotary:trust_status` | Namespace for properties specific to trust status. | 
 
 ## `codenotary:trust_status` Namespace Taxonomy
 
