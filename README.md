@@ -1,6 +1,6 @@
 # Codenotary CycloneDX Property Taxonomy, v0.0.1
 
-This is the official Codenotary property taxonomy for CycloneDX.
+This is the official (Codenotary)[https://codenotary.com/] property taxonomy for CycloneDX.
 
 For more information about CycloneDX property taxonomies, refer to
 their [official documentation](https://github.com/CycloneDX/cyclonedx-property-taxonomy).
